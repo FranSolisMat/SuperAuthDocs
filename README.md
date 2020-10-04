@@ -1,3 +1,7 @@
+---
+description: Secure your users and server.
+---
+
 # SuperAuth
 
 ## What is this?
